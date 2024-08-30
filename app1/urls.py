@@ -12,10 +12,4 @@ urlpatterns = [
 
 #se creo este archivo agregando nuevas urls
 
-#git init
-#git add . 
-#git commit -m ""
-#git remote add origin 'se agrega el url'
-#git config --global user.name DaniloAbarzua  
-# git config --global user.email danilo.abarzua@inacapmail.cl
-#  
+ 
